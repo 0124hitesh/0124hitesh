@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <br/><br/>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&theme=tokyonight)<br/>-->
 ## Git Status
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&layout=compact&hide=html,issues&theme=tokyonight" alt="" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0124hitesh&show_icons=true&theme=tokyonight)<br/><br/>
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&layout=compact&hide=html,issues&theme=tokyonight)<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=0124hitesh&show_icons=true&theme=tokyonight)<br/>
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=0124hitesh&show_icons=true&theme=tokyonight)<br/>-->
