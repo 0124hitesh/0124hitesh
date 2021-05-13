@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate for Web Desiging
 - 📫 How to reach me: hitesh.sharma_cs18@gla.ac.in
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0124hitesh&show_icons=true&theme=tokyonight)<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&theme=tokyonight)
