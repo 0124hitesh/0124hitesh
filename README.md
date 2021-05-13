@@ -1,4 +1,4 @@
-# Hitesh Sharma 👨‍🎓
+# Hitesh Sharma 👨‍💻
 ## "Hello World" 👋😉
 
 <!--
