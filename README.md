@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate for Web Desiging
 - 📫 How to reach me: hitesh.sharma_cs18@gla.ac.in
+<br/><br/>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&theme=tokyonight)<br/>-->
+## Git Status
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&layout=compact&hide=html,issues&theme=tokyonight" alt="" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0124hitesh&show_icons=true&theme=tokyonight)<br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&theme=tokyonight)
