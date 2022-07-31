@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate for Web Desiging
 - 📫 E-Mail: hitesh.sharma_cs18@gla.ac.in
 <br/><br/>
