@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ![languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0124hitesh&layout=compact&hide=css,issues&theme=tokyonight)
 
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=0124hitesh&show_icons=true&theme=tokyonight)<br/> -->
-![Hitesh's github stats](https://github-readme-stats.vercel.app/api?username=0124hitesh&theme=tokyonight)<br/>
+<!-- ![Hitesh's github stats](https://github-readme-stats.vercel.app/api?username=0124hitesh&theme=tokyonight)<br/> -->
 
 
